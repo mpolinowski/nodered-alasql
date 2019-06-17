@@ -22,7 +22,7 @@ _Open the top menu then select import -> clipboard, this will open a dialogue bo
 
 # Connect a Web-API
 
-As an example we can connect to the HTTP API of on INSTAR IP camera using an [CGI command](https://wiki.instar.com/Advanced_User/CGI_Commands/) like:
+As an example we can connect to the HTTP API of an INSTAR IP camera using a [CGI command](https://wiki.instar.com/Advanced_User/CGI_Commands/) like:
 
 
 ```bash
